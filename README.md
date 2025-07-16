@@ -2,14 +2,12 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Akashgupta-1920&label=Profile%20views&color=0e75b6&style=flat" alt="akashgupta-1920" />
+</p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akash-gupta-a586b5282/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=netlify)](https://portfoliofoakash.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-guptaakash1511@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:guptaakash1511@gmail.com)
 
 ---
-
-</p>
-
 ---
 
 ## 🧠 About Me
