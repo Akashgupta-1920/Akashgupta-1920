@@ -76,7 +76,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashgupta-1920&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashgupta-1920&layout=compact&theme=react&hide_border=true&exclude_repo=your-bulky-repo" />
 </p>
 
 ---
