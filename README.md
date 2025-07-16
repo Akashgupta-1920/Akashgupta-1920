@@ -1,28 +1,57 @@
-# 👋 Hi, I'm Akash Gupta!
+<h1 align="center">👋 Hi, I'm Akash Gupta!</h1>
 
-I'm a passionate React Native and full-stack developer from India 🇮🇳.  
-Currently building cross-platform apps and AI-powered experiences using Firebase, Expo, and Google Gemini.
-
-## 🚀 Tech Stack
-- 💻 Frontend: React Native · Expo · Tailwind · TypeScript
-- 🔥 Backend: Firebase · Node.js
-- 🧠 AI Tools: Gemini API · OpenAI
-- 🌐 Others: Git · GitHub · Figma · REST APIs
-
-## 📫 Let's Connect
-- 🌐 Portfolio: [akashgupta.dev](https://your-portfolio-link.com)
-- 📷 Instagram: [@yourhandle](https://instagram.com/yourhandle)
-- 💼 LinkedIn: [Akash Gupta](https://linkedin.com/in/your-link)
-- 📧 Email: akashgupta@example.com
-
-## 📊 GitHub Stats
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akashgupta-1920&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashgupta-1920&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akashgupta-1920&label=Profile%20views&color=0e75b6&style=flat" alt="akashgupta-1920" />
+</p>
 
 ---
 
-### ⚡ Fun Fact
-> I love solving real-world problems with clean UI and clever code! 💡
+## 🧠 About Me
+
+- 👨‍💻 I'm a passionate **React Native** and **Full Stack Developer** from India 🇮🇳  
+- 🌱 Currently mastering: **Expo SDK**, **Firebase**, and **Google Gemini API**  
+- 🤝 Looking to collaborate on open-source, AI projects, or exciting startups  
+- 🧩 Fun fact: I love building sleek UIs that *feel alive* 😄  
+
+### 📫 Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akash-gupta-a586b5282/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=netlify)](https://portfoliofoakash.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-guptaakash1511@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:guptaakash1511@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Frontend
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🔥 Backend / AI
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Google Gemini API](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 🌐 Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashgupta-1920&show_icons=true&theme=radical" alt="Akash's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashgupta-1920&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+> Built with ❤️ by Akash Gupta
 
 ### 🛠️ Tech Stack
 
