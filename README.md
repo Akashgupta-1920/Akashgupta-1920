@@ -2,6 +2,12 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Akashgupta-1920&label=Profile%20views&color=0e75b6&style=flat" alt="akashgupta-1920" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akash-gupta-a586b5282/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=netlify)](https://portfoliofoakash.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-guptaakash1511@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:guptaakash1511@gmail.com)
+
+---
+
 </p>
 
 ---
@@ -13,13 +19,6 @@
 - 🤝 Looking to collaborate on open-source, AI projects, or exciting startups  
 - 🧩 Fun fact: I love building sleek UIs that *feel alive* 😄  
 
-### 📫 Reach Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akash-gupta-a586b5282/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=netlify)](https://portfoliofoakash.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-guptaakash1511@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:guptaakash1511@gmail.com)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -37,17 +36,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashgupta-1920&show_icons=true&theme=radical" alt="Akash's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashgupta-1920&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
