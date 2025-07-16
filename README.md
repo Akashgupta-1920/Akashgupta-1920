@@ -1,23 +1,28 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif" alt="Banner" width="100%" />
-</p>
+# 👋 Hi, I'm Akash Gupta!
 
-<h1 align="center">Hi 👋, I'm Akash Gupta</h1>
-<p align="center">
-  💻 Turning coffee into code | Passionate about building scalable web apps
-</p>
+I'm a passionate React Native and full-stack developer from India 🇮🇳.  
+Currently building cross-platform apps and AI-powered experiences using Firebase, Expo, and Google Gemini.
+
+## 🚀 Tech Stack
+- 💻 Frontend: React Native · Expo · Tailwind · TypeScript
+- 🔥 Backend: Firebase · Node.js
+- 🧠 AI Tools: Gemini API · OpenAI
+- 🌐 Others: Git · GitHub · Figma · REST APIs
+
+## 📫 Let's Connect
+- 🌐 Portfolio: [akashgupta.dev](https://your-portfolio-link.com)
+- 📷 Instagram: [@yourhandle](https://instagram.com/yourhandle)
+- 💼 LinkedIn: [Akash Gupta](https://linkedin.com/in/your-link)
+- 📧 Email: akashgupta@example.com
+
+## 📊 GitHub Stats
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akashgupta-1920&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashgupta-1920&layout=compact&theme=radical)
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🙋‍♂️ I'm **Akash Gupta**, 22 years old, currently single  
-- 🚀 Full Stack Developer with a passion for clean code & performance  
-- 🌐 Specialized in both **Frontend** and **Backend** web development  
-- 📚 Constantly learning and exploring new technologies  
-- 💬 Ask me about **JavaScript**, **Node.js**, **React**, **MongoDB**, and more  
-
----
+### ⚡ Fun Fact
+> I love solving real-world problems with clean UI and clever code! 💡
 
 ### 🛠️ Tech Stack
 
