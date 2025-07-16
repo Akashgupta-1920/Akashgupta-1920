@@ -20,7 +20,9 @@
 ---
 
 ### 🛠️ Tech Stack
-![Visitor Badge](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&label=Profile%20views&color=0e75b6)
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=Akashgupta-1920&style=flat&label=Profile%20views&color=0e75b6)
+
 #### 💻 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,25 +47,13 @@
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: grid; grid-template-columns: 1fr; gap: 20px; justify-content: center; max-width: 600px; margin: auto;">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Akashgupta-1920&show_icons=true&theme=react&hide_border=true"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Akashgupta-1920&theme=react&hide_border=true"
-    alt="GitHub Streak"
-  />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashgupta-1920&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashgupta-1920&theme=react&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<p align="center" style="margin-top: 20px;">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashgupta-1920&layout=compact&theme=react&hide_border=true"
-    alt="Top Languages"
-  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashgupta-1920&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
