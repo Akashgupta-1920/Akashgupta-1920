@@ -20,7 +20,7 @@
 ---
 
 ### 🛠️ Tech Stack
-
+![Visitor Badge](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&label=Profile%20views&color=0e75b6)
 #### 💻 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
