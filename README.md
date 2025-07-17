@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Akashgupta-1920&label=Profile%20views&color=0e75b6&style=flat" alt="akashgupta-1920" />
 </p>
+---
 ### 📫 Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akash-gupta-a586b5282/)
